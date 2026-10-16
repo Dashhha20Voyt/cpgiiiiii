@@ -1,0 +1,15 @@
+# Данные и промежуточные файлы, которые блокноты скачивают и строят сами
+regclock_work/
+regclock_data/
+*.mcool
+*.npz
+
+*.CGfinal*
+GSE*_series_matrix.txt.gz
+methylasso/
+methylasso_out/
+results_pipeline*.zip
+# Python / Jupyter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/

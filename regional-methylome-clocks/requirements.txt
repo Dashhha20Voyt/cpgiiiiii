@@ -1,0 +1,11 @@
+# Python-зависимости (версии, на которых выполнены блокноты в notebooks/executed)
+numpy==2.5.4
+scipy==1.18.1
+pandas==3.0.6
+scikit-learn==1.9.1
+matplotlib==3.11.2
+cooler==0.10.4
+pyarrow
+# Пайплайн 1 дополнительно требует R (>= 4.3) и устанавливает MethyLasso из
+# https://github.com/bardetlab/methylasso (проверенный коммит 0f06855a6fb35dec7d5215f0f9061709006e73dc);
+# R-пакеты и системная библиотека libgsl-dev ставятся ячейкой установки блокнота.

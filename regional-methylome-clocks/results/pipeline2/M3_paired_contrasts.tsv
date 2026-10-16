@@ -1,0 +1,7 @@
+первый	второй	split	ΔMAE	ДИ низ	ДИ верх
+M3_modules_CH12_only	M3_modules_null_only	internal_test	1.1679563255310057	0.296245405069987	2.0035756504376727
+M3_modules_CH12_only	M3_modules_null_only	external_B6	1.93482901998291	1.077168046010895	2.72869732712738
+M3_regions+modules_CH12	Coherent_shift	internal_test	3.0835469563802084e-06	-2.09808349609375e-06	8.901755015055335e-06
+M3_regions+modules_CH12	Coherent_shift	external_B6	4.8828125e-06	-2.308845520019531e-06	1.186513900756835e-05
+M3_regions+modules_CH12	M3_regions+modules_null	internal_test	0.05471932093302409	-0.10530142704645792	0.23234084924062087
+M3_regions+modules_CH12	M3_regions+modules_null	external_B6	0.02811384201049805	-0.11284652233123779	0.1667341737747192

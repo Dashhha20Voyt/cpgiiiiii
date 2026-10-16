@@ -1,0 +1,11 @@
+{
+  "SEED": 20261014,
+  "MIN_COV": 5,
+  "MIN_FRAC_TRAIN": 0.5,
+  "QC_FRAC_CPG": 0.9,
+  "DBSCAN_EPS": 1000,
+  "DBSCAN_MINPTS": 5,
+  "segmentation_penalty": "2*log(n)",
+  "min_segment_cpg": 3,
+  "RUN_HIC": true
+}
